@@ -1,0 +1,3 @@
+package com.example.mymvpapplication.view
+
+class StockExchangeActivity
